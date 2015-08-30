@@ -1,0 +1,18 @@
+{
+  "name": "Rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.x"
+  },
+  "devDependencies": {
+    "mongoose": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
